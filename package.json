@@ -1,0 +1,17 @@
+{
+  "name": "diff-checker-back",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "directory-tree": "~0.1.1",
+    "express": "~4.13.3",
+    "promise": "~7.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
